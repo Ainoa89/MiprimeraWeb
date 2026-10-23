@@ -45,6 +45,11 @@ footer {
     padding: 10px;
 }
 
+.destacat {
+    background-color: #99c1f1;
+    font-weight: bold;
+}
+
 button {
     background-color: #000000;
     color: #ffffff;
